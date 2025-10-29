@@ -26,5 +26,13 @@ O sistema permite adicionar, listar e calcular o total de despesas, registrando 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Kallebe157-hash/projeto_despesas.git
+2.	Instale as dependências:
+   pip install -r requerimentos.txt
+3.	Execute o projeto:
+   python despesas.py
+
+   Autor
+
+Desenvolvido por Kallebe Carlos — estudante de Análise e Desenvolvimento de Sistemas 
 
 
