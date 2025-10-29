@@ -16,7 +16,7 @@ O sistema permite adicionar, listar e calcular o total de despesas, registrando 
 ---
 
 ##  Tecnologias utilizadas
-- Python 🐍
+- Python 
 - Pandas (opcional)
 - CSV
 
@@ -26,4 +26,5 @@ O sistema permite adicionar, listar e calcular o total de despesas, registrando 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Kallebe157-hash/projeto_despesas.git
+
 
